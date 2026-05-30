@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planelet Creator"
+  short_description: "Scaffold local npm Planelet plugins"
+  default_prompt: "Use $planelet-creator to create a local Planelet I can run with npm run dev."
